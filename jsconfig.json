@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "/Static-Website-Nuxtjs-Content-Blog/",
+    "baseUrl": ".",
     "paths": {
       "~/*": ["./*"],
       "@/*": ["./*"],
